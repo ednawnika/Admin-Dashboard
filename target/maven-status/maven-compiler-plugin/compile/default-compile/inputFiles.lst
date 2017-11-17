@@ -1,0 +1,10 @@
+/Users/BusinessPro/Documents/JavaWorkSpace/AdminDashboard/src/main/java/com/project/Auth/models/User.java
+/Users/BusinessPro/Documents/JavaWorkSpace/AdminDashboard/src/main/java/com/project/Auth/services/UserService.java
+/Users/BusinessPro/Documents/JavaWorkSpace/AdminDashboard/src/main/java/com/project/Auth/repositories/RoleRepository.java
+/Users/BusinessPro/Documents/JavaWorkSpace/AdminDashboard/src/main/java/com/project/Auth/controllers/Users.java
+/Users/BusinessPro/Documents/JavaWorkSpace/AdminDashboard/src/main/java/com/project/Auth/models/Role.java
+/Users/BusinessPro/Documents/JavaWorkSpace/AdminDashboard/src/main/java/com/project/Auth/services/UserDetailsServiceImplementation.java
+/Users/BusinessPro/Documents/JavaWorkSpace/AdminDashboard/src/main/java/com/project/Auth/config/WebSecurityConfig.java
+/Users/BusinessPro/Documents/JavaWorkSpace/AdminDashboard/src/main/java/com/project/Auth/repositories/UserRepository.java
+/Users/BusinessPro/Documents/JavaWorkSpace/AdminDashboard/src/main/java/com/project/Auth/AuthApplication.java
+/Users/BusinessPro/Documents/JavaWorkSpace/AdminDashboard/src/main/java/com/project/Auth/validators/UserValidator.java
